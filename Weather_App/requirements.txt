@@ -1,0 +1,11 @@
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+tensorflow      # for LSTM (optional; can be skipped if you only want ARIMA/regression)
+reportlab       # to programmatically create PDF
+python-dotenv
